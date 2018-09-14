@@ -12,8 +12,8 @@ Har valt paket från npm.com och utgått ifrån att de som är relativt nyuppdat
 
 ## Systemet & tasks
 * tasks 
-**  copyhtml - kopierar html filer och placerar dem i mapp för publicering 
-**  convertjs - slår samman js filer och minifierar dem 
-**  watcher - lyssnar efter ändringar som görs och uppdaterar då 
+ *  copyhtml - kopierar html filer och placerar dem i mapp för publicering 
+ *  convertjs - slår samman js filer och minifierar dem 
+ *  watcher - lyssnar efter ändringar som görs och uppdaterar då 
 
 
